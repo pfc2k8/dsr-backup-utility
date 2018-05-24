@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
